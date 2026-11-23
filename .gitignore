@@ -1,0 +1,5 @@
+# Local planning and agent tooling (steno-spec, Claude Code) — not part of the website
+.steno/
+.agents/
+.claude/
+AGENTS.md
